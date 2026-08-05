@@ -1,3 +1,4 @@
+![](./doc/logo_mcp_diffusion_transparent.png)
 # McpDiffusion
 
 > **BETA** — This project is in BETA. It should not be considered a finished nor an official product supported by INSEE.
